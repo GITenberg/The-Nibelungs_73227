@@ -1,0 +1,43 @@
+_repo: The-Nibelungs_73227
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Schmidt, Ferdinand
+    birthdate: 1816
+    deathdate: 1890
+    gutenberg_agent_id: '50540'
+    url: http://www.gutenberg.org/2009/agents/50540
+description: ''
+gutenberg_issued: '2024-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73227'
+  lccn: '06036030'
+language: en
+pgterms:marc904: https://archive.org/details/nibelungs00schm
+pgterms:marc905: 20190315105001ferdinand
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aChicago :$bA. C. McClurg & Co., $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Life stories for young people
+subjects:
+- !lcsh 'Nibelungenlied -- Adaptations'
+- !lcc 'PZ'
+- GITenberg
+title: The Nibelungs
+url: http://www.gutenberg.org/ebooks/73227
