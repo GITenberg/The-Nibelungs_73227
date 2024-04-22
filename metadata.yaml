@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+covers:
+- cover_type: archival
+  image_path: 73227-h/images/cover.jpg
 creator:
   author:
     agent_name: Schmidt, Ferdinand
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '50540'
     url: http://www.gutenberg.org/2009/agents/50540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73227#The-Nibelungs
 gutenberg_issued: '2024-03-21'
 gutenberg_type: Text
 identifiers:
